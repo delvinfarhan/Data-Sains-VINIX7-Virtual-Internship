@@ -1,6 +1,6 @@
 # Portofolio Proyek - Studi Independen Data Sains VINIX7
 
-Selamat datang di repositori portofolio saya. Repositori ini berisi kumpulan proyek dan modul yang telah diselesaikan selama program Studi Independen Mandiri Data Sains Batch 3 bersama **VINIX7**.
+Repositori ini berisi kumpulan proyek dan modul yang telah diselesaikan selama program Studi Independen Mandiri Data Sains Batch 3 bersama **VINIX7**.
 
 Program ini dirancang untuk mencakup seluruh alur kerja *data science* secara *end-to-end*, mulai dari akuisisi data, pembersihan (*data cleaning*), analisis eksploratif (*EDA*), pemodelan *machine learning*, hingga *data storytelling*.
 
@@ -30,7 +30,7 @@ Selama program ini, saya telah menerapkan berbagai *tools* dan teknik *data scie
 
 ## 📂 Daftar Proyek (Modul)
 
-Berikut adalah rincian 10 modul proyek yang telah diselesaikan:
+Modul-modul proyek yang telah diselesaikan:
 
 ### 1. Modul 1: Analisis Pola Tontonan YouTube
 * **Deskripsi:** Menganalisis *history* tontonan YouTube pribadi untuk menemukan pola konsumsi konten, *insight* perilaku, dan merumuskan langkah strategis untuk pemilik *channel*.
