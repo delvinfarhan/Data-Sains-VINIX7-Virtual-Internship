@@ -4,8 +4,6 @@ Repositori ini berisi kumpulan proyek dan modul yang telah diselesaikan selama p
 
 Program ini dirancang untuk mencakup seluruh alur kerja *data science* secara *end-to-end*, mulai dari akuisisi data, pembersihan (*data cleaning*), analisis eksploratif (*EDA*), pemodelan *machine learning*, hingga *data storytelling*.
 
-**Penulis:** Mochammad Delvin Farhan Akbar
-
 ---
 
 ## 🛠️ Teknologi & Keterampilan Utama
